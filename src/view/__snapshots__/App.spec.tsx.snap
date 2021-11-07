@@ -1,0 +1,27 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test Auth Webapp entry test againest snapshot 1`] = `
+<div>
+  <div
+    className="card-header"
+  >
+    Welcome
+  </div>
+  <div
+    className="container"
+  >
+    <div>
+      <div
+        className="login-name"
+      >
+        Name
+      </div>
+      <div
+        className="login-password"
+      >
+        Password
+      </div>
+    </div>
+  </div>
+</div>
+`;

@@ -1,5 +1,5 @@
 ## add  Puppeteer + jest + enzyme to react project
-* npm install enzyme  @wojtekmaj/enzyme-adapter-react-17 enzyme-to-json --save-dev // install enzyme 
+* npm install enzyme  @wojtekmaj/enzyme-adapter-react-17 enzyme-to-json @types/enzyme --save-dev // install enzyme 
 * npm install jest babel-jest @babel/preset-env @babel/preset-react react-test-renderer @types/jest --save-dev  //install jest
 * package.json
     ```
