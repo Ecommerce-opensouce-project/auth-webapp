@@ -2,7 +2,7 @@ import * as React from 'react';
 import { shallow } from "enzyme";
 import * as renderer from 'react-test-renderer';
 import App  from "./App";
-import LoginForm from "./login/LoginForm";
+import LoginForm from './login/LoginForm';
 
 const wrapper = shallow(<App/>);
 

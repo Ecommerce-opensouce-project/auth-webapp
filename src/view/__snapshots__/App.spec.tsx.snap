@@ -21,6 +21,28 @@ exports[`Test Auth Webapp entry test againest snapshot 1`] = `
       >
         Password
       </div>
+      <button
+        className="storybook-button storybook-button--medium storybook-button--secondary"
+        style={
+          Object {
+            "backgroundColor": undefined,
+          }
+        }
+        type="button"
+      >
+        Login
+      </button>
+      <button
+        className="storybook-button storybook-button--medium storybook-button--secondary"
+        style={
+          Object {
+            "backgroundColor": undefined,
+          }
+        }
+        type="button"
+      >
+        Register
+      </button>
     </div>
   </div>
 </div>
